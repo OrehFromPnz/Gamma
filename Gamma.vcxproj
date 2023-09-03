@@ -147,8 +147,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Orekhov\source\repos\main.c" />
     <ClCompile Include="convertStringLib.c" />
+    <ClCompile Include="main.c" />
     <ClCompile Include="Tests.c" />
   </ItemGroup>
   <ItemGroup>

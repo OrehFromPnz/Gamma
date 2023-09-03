@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Orekhov\source\repos\main.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="convertStringLib.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Tests.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
